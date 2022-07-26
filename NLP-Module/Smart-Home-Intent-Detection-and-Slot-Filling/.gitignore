@@ -1,0 +1,11 @@
+BKAI/
+PhoATIS/
+output/
+trained_models/
+data/
+models/
+RDRsegmenter/
+*workspace*
+*.pyc
+*.zip
+.DS_Store
